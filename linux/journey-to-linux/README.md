@@ -20,7 +20,7 @@ layout:
 
 # Journey to Linux
 
-> ### Linux is only free if your time has no value.
+> #### Linux is only free if your time has no value.
 
 Embark on a transformative Linux journey, gaining a unique understanding of operating systems. Unlock the power to stand out from the crowd. Given that you are able to invest in proper time. Weeks will fly by without you even noticing it.
 
@@ -36,4 +36,3 @@ Here's want you need to know before really getting into Linux :scroll:
 {% hint style="info" %}
 Next section will contain resources and guides that you can follow to get started !!
 {% endhint %}
-
